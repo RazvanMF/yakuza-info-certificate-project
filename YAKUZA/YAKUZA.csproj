@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{73E7B536-9ADF-405A-A0FF-FB4C14402621}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>YAKUZA</RootNamespace>
+    <AssemblyName>YAKUZA</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormAddFamilii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddFamilii.Designer.cs">
+      <DependentUpon>FormAddFamilii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddPersonaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddPersonaje.Designer.cs">
+      <DependentUpon>FormAddPersonaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddStiluri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddStiluri.Designer.cs">
+      <DependentUpon>FormAddStiluri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormModFamilii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormModFamilii.Designer.cs">
+      <DependentUpon>FormModFamilii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormModPersonaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormModPersonaje.Designer.cs">
+      <DependentUpon>FormModPersonaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormModStiluri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormModStiluri.Designer.cs">
+      <DependentUpon>FormModStiluri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStart.Designer.cs">
+      <DependentUpon>FormStart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStartAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStartAdmin.Designer.cs">
+      <DependentUpon>FormStartAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStartLoading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStartLoading.Designer.cs">
+      <DependentUpon>FormStartLoading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVizFamilii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVizFamilii.Designer.cs">
+      <DependentUpon>FormVizFamilii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVizStiluri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVizStiluri.Designer.cs">
+      <DependentUpon>FormVizStiluri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FormVizPersonaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVizPersonaje.Designer.cs">
+      <DependentUpon>FormVizPersonaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yakuzaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>yakuzaDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormAddFamilii.resx">
+      <DependentUpon>FormAddFamilii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddPersonaje.resx">
+      <DependentUpon>FormAddPersonaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddStiluri.resx">
+      <DependentUpon>FormAddStiluri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormModFamilii.resx">
+      <DependentUpon>FormModFamilii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormModPersonaje.resx">
+      <DependentUpon>FormModPersonaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormModStiluri.resx">
+      <DependentUpon>FormModStiluri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStart.resx">
+      <DependentUpon>FormStart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStartAdmin.resx">
+      <DependentUpon>FormStartAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStartLoading.resx">
+      <DependentUpon>FormStartLoading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVizFamilii.resx">
+      <DependentUpon>FormVizFamilii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVizPersonaje.resx">
+      <DependentUpon>FormVizPersonaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVizStiluri.resx">
+      <DependentUpon>FormVizStiluri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="IcoResources\edosz.ttf" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="yakuzaDataSet.xsc">
+      <DependentUpon>yakuzaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="yakuzaDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>yakuzaDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="yakuzaDataSet.xss">
+      <DependentUpon>yakuzaDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IcoResources\y0.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,10 @@
+Neafiliat	-	0	-
+Tojo Clan	Daigo Dojima	10729	TOP
+Dojima Family	Sohei Dojima	4920	Tojo Clan
+Kazama Family	Shintaro Kazama	729	Dojima Family
+Majima Family	Goro Majima	3291	Tojo Clan
+Saejima Family	Taiga Saejima	277	Majima Family
+Omi Alliance	Jin Goda	8311	TOP
+Go-Ryu Clan	Ryuji Goda	3822	Omi Alliance
+Sky Finance	Shun Akiyama	2	TOP
+Kamurocho PD	Seishiro Munakata	47234	TOP

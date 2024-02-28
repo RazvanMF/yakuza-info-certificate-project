@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|c:\\razvan\\recovery 2nd\\backups\\yakuza\\yakuza\\formaddpersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|solutionrelative:yakuza\\formaddpersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\yakuza\\formaddpersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|solutionrelative:yakuza\\formaddpersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\yakuza\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|solutionrelative:yakuza\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\yakuza\\yakuzadataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|solutionrelative:yakuza\\yakuzadataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\yakuza\\formaddfamilii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|solutionrelative:yakuza\\formaddfamilii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\yakuza\\formstartadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|solutionrelative:yakuza\\formstartadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\yakuza\\formvizpersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|solutionrelative:yakuza\\formvizpersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\yakuza\\formstartadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|solutionrelative:yakuza\\formstartadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\yakuza\\formvizstiluri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|solutionrelative:yakuza\\formvizstiluri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\yakuza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|solutionrelative:yakuza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\yakuza\\formvizpersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|solutionrelative:yakuza\\formvizpersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\yakuza\\formstartloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|solutionrelative:yakuza\\formstartloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\yakuza\\formvizfamilii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|solutionrelative:yakuza\\formvizfamilii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\yakuza\\formvizstiluri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|solutionrelative:yakuza\\formvizstiluri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\yakuza\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73E7B536-9ADF-405A-A0FF-FB4C14402621}|YAKUZA\\YAKUZA.csproj|solutionrelative:yakuza\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormStart.cs",
+              "DocumentMoniker": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormStart.cs",
+              "RelativeDocumentMoniker": "YAKUZA\\FormStart.cs",
+              "ToolTip": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormStart.cs",
+              "RelativeToolTip": "YAKUZA\\FormStart.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA1wB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:48:16.046Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAddPersonaje.cs",
+              "DocumentMoniker": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormAddPersonaje.cs",
+              "RelativeDocumentMoniker": "YAKUZA\\FormAddPersonaje.cs",
+              "ToolTip": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormAddPersonaje.cs",
+              "RelativeToolTip": "YAKUZA\\FormAddPersonaje.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:41:45.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAddPersonaje.cs [Design]",
+              "DocumentMoniker": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormAddPersonaje.cs",
+              "RelativeDocumentMoniker": "YAKUZA\\FormAddPersonaje.cs",
+              "ToolTip": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormAddPersonaje.cs [Design]",
+              "RelativeToolTip": "YAKUZA\\FormAddPersonaje.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:41:44.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "yakuzaDataSet.Designer.cs",
+              "DocumentMoniker": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\yakuzaDataSet.Designer.cs",
+              "RelativeDocumentMoniker": "YAKUZA\\yakuzaDataSet.Designer.cs",
+              "ToolTip": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\yakuzaDataSet.Designer.cs",
+              "RelativeToolTip": "YAKUZA\\yakuzaDataSet.Designer.cs",
+              "ViewState": "AQIAAKABAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:30:04.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAddFamilii.cs",
+              "DocumentMoniker": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormAddFamilii.cs",
+              "RelativeDocumentMoniker": "YAKUZA\\FormAddFamilii.cs",
+              "ToolTip": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormAddFamilii.cs",
+              "RelativeToolTip": "YAKUZA\\FormAddFamilii.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:21:41.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormStartAdmin.cs",
+              "DocumentMoniker": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormStartAdmin.cs",
+              "RelativeDocumentMoniker": "YAKUZA\\FormStartAdmin.cs",
+              "ToolTip": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormStartAdmin.cs",
+              "RelativeToolTip": "YAKUZA\\FormStartAdmin.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAswIwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:30:12.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormVizPersonaje.cs",
+              "DocumentMoniker": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormVizPersonaje.cs",
+              "RelativeDocumentMoniker": "YAKUZA\\FormVizPersonaje.cs",
+              "ToolTip": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormVizPersonaje.cs",
+              "RelativeToolTip": "YAKUZA\\FormVizPersonaje.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T22:15:13.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormVizStiluri.cs",
+              "DocumentMoniker": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormVizStiluri.cs",
+              "RelativeDocumentMoniker": "YAKUZA\\FormVizStiluri.cs",
+              "ToolTip": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormVizStiluri.cs",
+              "RelativeToolTip": "YAKUZA\\FormVizStiluri.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAUwGsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:42:38.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\Program.cs",
+              "RelativeDocumentMoniker": "YAKUZA\\Program.cs",
+              "ToolTip": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\Program.cs",
+              "RelativeToolTip": "YAKUZA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:32:53.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormVizStiluri.cs [Design]",
+              "DocumentMoniker": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormVizStiluri.cs",
+              "RelativeDocumentMoniker": "YAKUZA\\FormVizStiluri.cs",
+              "ToolTip": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormVizStiluri.cs [Design]",
+              "RelativeToolTip": "YAKUZA\\FormVizStiluri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:27:58.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormVizPersonaje.cs [Design]",
+              "DocumentMoniker": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormVizPersonaje.cs",
+              "RelativeDocumentMoniker": "YAKUZA\\FormVizPersonaje.cs",
+              "ToolTip": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormVizPersonaje.cs [Design]",
+              "RelativeToolTip": "YAKUZA\\FormVizPersonaje.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:27:56.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormVizFamilii.cs [Design]",
+              "DocumentMoniker": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormVizFamilii.cs",
+              "RelativeDocumentMoniker": "YAKUZA\\FormVizFamilii.cs",
+              "ToolTip": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormVizFamilii.cs [Design]",
+              "RelativeToolTip": "YAKUZA\\FormVizFamilii.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:27:54.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormStartLoading.cs [Design]",
+              "DocumentMoniker": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormStartLoading.cs",
+              "RelativeDocumentMoniker": "YAKUZA\\FormStartLoading.cs",
+              "ToolTip": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormStartLoading.cs [Design]",
+              "RelativeToolTip": "YAKUZA\\FormStartLoading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:26:02.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormStartAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormStartAdmin.cs",
+              "RelativeDocumentMoniker": "YAKUZA\\FormStartAdmin.cs",
+              "ToolTip": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormStartAdmin.cs [Design]",
+              "RelativeToolTip": "YAKUZA\\FormStartAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:25:53.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormStart.cs [Design]",
+              "DocumentMoniker": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormStart.cs",
+              "RelativeDocumentMoniker": "YAKUZA\\FormStart.cs",
+              "ToolTip": "C:\\Razvan\\Recovery 2nd\\backups\\YAKUZA\\YAKUZA\\FormStart.cs [Design]",
+              "RelativeToolTip": "YAKUZA\\FormStart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:15:17.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

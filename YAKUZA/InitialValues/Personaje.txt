@@ -1,0 +1,7 @@
+Kiryu Kazuma	Nagasugai	0	1	20	2147483647	1.png
+Goro Majima	Kamurocho	4	5	19	782400257	2.png
+Shun Akiyama	Sotenbori	8	9	18	0	3.png
+Taiga Saejima	Tsukimino	5	10	20	729420	4.png
+Masayoshi Tanimura	Kamurocho	9	11	16	35392	5.png
+Haruka Sawamura	Sotenbori	0	0	12	27349284	6.png
+Ryuji Goda	Osaka	7	13	19	18	7.png

@@ -1,0 +1,39 @@
+D:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\bin\Debug\YakuzaJukebox.exe.config
+D:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\bin\Debug\YakuzaJukebox.exe
+D:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\bin\Debug\YakuzaJukebox.pdb
+D:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.csproj.AssemblyReference.cache
+D:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.csproj.SuggestedBindingRedirects.cache
+D:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\Interop.WMPLib.dll
+D:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.csproj.ResolveComReference.cache
+D:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.Form1.resources
+D:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.Properties.Resources.resources
+D:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.csproj.GenerateResource.cache
+D:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.csproj.CoreCompileInputs.cache
+D:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.exe
+D:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.pdb
+E:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\bin\Debug\YakuzaJukebox.exe.config
+E:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\bin\Debug\YakuzaJukebox.exe
+E:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\bin\Debug\YakuzaJukebox.pdb
+E:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.csproj.AssemblyReference.cache
+E:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.csproj.SuggestedBindingRedirects.cache
+E:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\Interop.WMPLib.dll
+E:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.csproj.ResolveComReference.cache
+E:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.Form1.resources
+E:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.Properties.Resources.resources
+E:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.csproj.GenerateResource.cache
+E:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.csproj.CoreCompileInputs.cache
+E:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.exe
+E:\Yakuza Project 06.02.2022\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.pdb
+C:\Users\razva\Documents\Windows Forms\YAKUZA\YakuzaJukebox\YakuzaJukebox\bin\Debug\YakuzaJukebox.exe.config
+C:\Users\razva\Documents\Windows Forms\YAKUZA\YakuzaJukebox\YakuzaJukebox\bin\Debug\YakuzaJukebox.exe
+C:\Users\razva\Documents\Windows Forms\YAKUZA\YakuzaJukebox\YakuzaJukebox\bin\Debug\YakuzaJukebox.pdb
+C:\Users\razva\Documents\Windows Forms\YAKUZA\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.csproj.AssemblyReference.cache
+C:\Users\razva\Documents\Windows Forms\YAKUZA\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.csproj.SuggestedBindingRedirects.cache
+C:\Users\razva\Documents\Windows Forms\YAKUZA\YakuzaJukebox\YakuzaJukebox\obj\Debug\Interop.WMPLib.dll
+C:\Users\razva\Documents\Windows Forms\YAKUZA\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.csproj.ResolveComReference.cache
+C:\Users\razva\Documents\Windows Forms\YAKUZA\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.FormJukebox.resources
+C:\Users\razva\Documents\Windows Forms\YAKUZA\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.Properties.Resources.resources
+C:\Users\razva\Documents\Windows Forms\YAKUZA\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.csproj.GenerateResource.cache
+C:\Users\razva\Documents\Windows Forms\YAKUZA\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.csproj.CoreCompileInputs.cache
+C:\Users\razva\Documents\Windows Forms\YAKUZA\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.exe
+C:\Users\razva\Documents\Windows Forms\YAKUZA\YakuzaJukebox\YakuzaJukebox\obj\Debug\YakuzaJukebox.pdb

@@ -1,0 +1,14 @@
+Fara Stil	0	0	0	0	null
+Dragon of Dojima	80	100	5	100	null
+Brawler (Kiryu)	66	75	4	93	null
+Rush (Kiryu)	100	66	4	84	null
+Beast (Kiryu)	50	100	3	73	null
+Mad Dog of Shimano	80	80	5	100	null
+Thug (Majima)	95	66	4	72	null
+Breaker (Majima)	90	80	4	91	null
+Slugger (Majima)	66	100	4	81	null
+Vermillion Bird	100	66	4	89	null
+White Tiger	50	100	5	100	null
+Black Tortoise	80	60	3	81	null
+D.A.N.C.E.	100	2	2	77	null
+Gilded Dragon	66	100	4	89	null
